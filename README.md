@@ -13,8 +13,8 @@ http://www.libquantum.de/api/1.0/Introduction.html
 
 
 # To Do
-Nielsen book commentary and code examples
-api documentation
+* Nielsen book commentary and code examples
+* api documentation
 
 
 thanks to [Fausto Saporito](https://github.com/TheFausap) for the initial libquantum cl port
